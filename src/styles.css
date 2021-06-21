@@ -2,3 +2,18 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.tile {
+  width: 100px;
+  height: 100px;
+}
+.row {
+  display: flex;
+}
+.red {
+  background-color: red;
+}
+
+.black {
+  background-color: black;
+}
