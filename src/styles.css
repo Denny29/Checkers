@@ -17,3 +17,7 @@
 .black {
   background-color: black;
 }
+.images {
+  width: 100px;
+  border-radius: 50px;
+}
